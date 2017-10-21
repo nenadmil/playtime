@@ -29,6 +29,9 @@ gem 'jbuilder', '~> 2.5'
 # A gem to automate using jQuery with Rails
 gem 'jquery-rails', '~> 4.3.1'
 
+# A gem for pagination
+gem 'kaminari'
+
 # required for Bootstrap tooltips
 source 'https://rails-assets.org' do
   gem 'rails-assets-tether', '>= 1.3.3'
