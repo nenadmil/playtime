@@ -88,3 +88,9 @@ h3 {
     border-color: $teal;
   }
 }
+
+.pagination a {
+    color: $teal;
+    padding: 4px 8px;
+    text-decoration: underline;
+}
